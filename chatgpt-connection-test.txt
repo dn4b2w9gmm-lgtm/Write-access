@@ -1,0 +1,3 @@
+ChatGPT GitHub connection test — September 9, 2026.
+
+If this file is visible, repository write access is working.
